@@ -1,0 +1,48 @@
+Lista de Exercícios Caso
+1)Faça um programa que leia o seu peso na terra e o número de um planeta e calcule qual será o seu peso neste planeta. A relação de planetas é: 
+
+num     Planeta       gravidade relativa
+1        Mercúrio           0,37
+2        Vênus              0,88
+3        Marte              0,38
+4        Júpiter            2,64
+5        Saturno            1,15
+6        Urano              1,17
+
+A fórmula para o cálculo do peso em outro planeta, considerando a gravidade relativa de cada um deles é:
+
+PesoNoPlaneta = PesoNaTerraXGravidade
+
+2)  Fazer um programa que solicite o mês  e  dia que você  nasceu, de acordo com o mês e o dia informe qual é o signo do usuário, exemplo:
+     - Informe o numero referente ao mês que você nasceu?  12
+     - Informe o dia do nascimento?  21
+	 Resp. Seu signo é sagitário
+
+Siga a tabela abaixo
+Áries: de 21 março a 19 abril 
+Touro: de 20 abril a 20 maio
+Gêmeos: de 21 maio a 21 junho
+Câncer: de 22 junho a 22 julho
+Leão: de 23 julho a 22 agosto
+Virgem: de 23 agosto a 22 setembro
+Libra:  de 23 setembro a 22 outubro
+Escorpião: de 23 outubro a 21 novembro
+Sagitário: de 22 novembro a 21 dezembro
+Capricórnio: de 22 dezembro a 19 janeiro
+Aquário: de 20 janeiro a 18 fevereiro
+Peixes: de 19 fevereiro a 20 março
+
+3) Faça um programa faça a votação de um desfile da MISS ETEC MCM, tendo 3 candidatas para a Final, sendo:
+   - Vote 10 para Fulana (pode escolher um nome)
+   - Vote 20 para Ciclana (pode escolher um nome)
+   - Vote 30 para Beltrana (pode escolher um nome)
+
+   Para este desfile tem 4 jurados para contabilizar os votos de 0 a 10.  
+   Dica: Como ainda não estamos trabalhando com laço de repetição terá que repetir (4 casos), 1 para cada jurado
+
+Informe no final a quantidade de votos que cada aluna teve.
+Informe também a aluna vencedora.
+
+Lembrando que nesse exercício você irá usar o "caso" mas também o "se"
+
+
